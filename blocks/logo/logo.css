@@ -1,0 +1,12 @@
+.logo img{
+
+}
+
+header nav .nav-brand .logo{
+    display: flex;
+    justify-content: center;
+}
+
+header nav .nav-brand .logo img{
+    width: 40px;
+}
