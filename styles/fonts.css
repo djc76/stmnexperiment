@@ -37,7 +37,7 @@
 
 
 @font-face {
-  font-family: 'Quattrocento';
+  font-family: quattrocento;
   font-style: normal;
   font-weight: 400;
   src: url('../fonts/Quattrocento.eot'); /* IE9 Compat Modes */
@@ -48,7 +48,7 @@
 }
 
 @font-face {
-  font-family: 'Quattrocento';
+  font-family: quattrocento;
   font-style: normal;
   font-weight: 700;
   src: url('../fonts/Quattrocento_bold.eot'); /* IE9 Compat Modes */
