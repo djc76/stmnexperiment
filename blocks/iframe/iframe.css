@@ -2,9 +2,11 @@
     display:flex;
     gap: 20px;
 }
+
 .iframe .iframe-with-image iframe{
     flex: 0 0 auto;
 }
+
 .iframe .iframe-with-image .right-col{
     flex: 1;
 }

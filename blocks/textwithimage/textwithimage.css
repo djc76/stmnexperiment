@@ -1,21 +1,24 @@
 .textwithimage > div {
     display: flow-root;
 }
+
 .textwithimage div.img{
     display: table;
     float: right; 
-    margin: 1em 1em 1em 1em; 
+    margin: 1em; 
     clear: right;
 }
+
 .textwithimage.right div.img{
     display: table;
     float: right; 
-    margin: 1em 1em 1em 1em; 
+    margin: 1em; 
     clear: right;
 }
+
 .textwithimage.left div.img{
     display: table;
     float: left; 
-    margin: 1em 1em 1em 1em; 
+    margin: 1em; 
     clear: left;
 }

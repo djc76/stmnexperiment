@@ -1,7 +1,6 @@
 footer {
   border: 1px solid rgb(200 200 200 / 50%);
-  border-width: 1px 0px 0px 0px;
-
+  border-width: 1px 0 0;
   background-color: white;
   font-size: var(--body-font-size-xs);
 }
