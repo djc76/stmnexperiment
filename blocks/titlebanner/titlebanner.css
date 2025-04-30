@@ -1,0 +1,21 @@
+.titlebanner-wrapper {
+  height: auto;
+  background-image: url('/images/header.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  max-width: initial;
+}
+
+.titlebanner {
+  display: flex;
+  color: white;
+  align-items: center;
+  justify-content: center;
+  height: 150px;
+  font-size: 40pt;
+}
+
+main > .section > div.titlebanner-wrapper{
+  max-width: initial;
+}
